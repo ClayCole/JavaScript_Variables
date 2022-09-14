@@ -9,7 +9,7 @@ Your objective is to begin using variables to store and pass values throughout y
 
 > To see your work, you can _log_, or print, the values stored in your variables to the _console_. Use `console.log(variableName)` to see your results in the browser console.
 
-## Exercise 1: Declaring Variables
+## Exercise 1: Declaring Variables- DONE 
 
 Steps are to be completed in the `app.js` file.
 
@@ -17,7 +17,7 @@ Steps are to be completed in the `app.js` file.
 2. Declare a variable named `lastName` using the `let` keyword, and assign your name as the **string** value
 3. Declare a variable named `age` using the `var` keyword, and assign your age as the **number** value
 
-## Exercise 2: Assigning Values to Variables
+## Exercise 2: Assigning Values to Variables - DONE 
 
 Steps are to be completed in the `app.js` file.
 
